@@ -1,9 +1,9 @@
-Experiment 2
+%Experiment 2
 
-Aim
-Write a code to compute Bit Error Rate (BER) performance for BPSK signals over AWGN and Rayleigh channel. Compare the results with theoretical results. 
+%Aim
+%Write a code to compute Bit Error Rate (BER) performance for BPSK signals over AWGN and Rayleigh channel. Compare the results with theoretical results. 
 
-Code:
+%Code:
 
 clear all;
 % Number of information bits
