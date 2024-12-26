@@ -1,9 +1,9 @@
-Experiment 6
+%Experiment 6
 
-Aim:
-Bit error rate analysis of digital communication receivers with Equal Gain Combining (EGC) receive diversity in frequency-flat and slowly varying fading channel.
+%Aim:
+%Bit error rate analysis of digital communication receivers with Equal Gain Combining (EGC) receive diversity in frequency-flat and slowly varying fading channel.
 
-Code:
+%Code:
 
 clc;
 close all;
