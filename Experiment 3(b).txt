@@ -1,8 +1,8 @@
-Aim 
-b)	Log – Distance path loss indoor propagation model
+%Aim 
+%b)	Log – Distance path loss indoor propagation model
 
 
-Code:
+%Code:
 
 clc;
 clear all;
