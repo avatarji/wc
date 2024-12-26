@@ -1,7 +1,7 @@
-Aim 
-a)	Log – Distance path loss indoor propagation model with shadowing
+%Aim 
+%a)	Log – Distance path loss indoor propagation model with shadowing
 
-Code:
+%Code:
 
 clc;
 clear all;
