@@ -1,12 +1,12 @@
-Aim
+%Aim
 
-b) HATA Model Receiver height varied
+%b) HATA Model Receiver height varied
 
 
-Code:
+%Code:
 
 %HATA MODEL Receiver height varied
-clc
+clc;
 clear all;
 close all;
 hte = input ('enter the tx height:');
