@@ -1,10 +1,10 @@
-Aim: 
-a)	HATA Model for distance varied
+%Aim: 
+%a)	HATA Model for distance varied
 
-Code:
+%Code:
 
 %HATA Model for distance varied
-clc
+clc;
 clear all;
 close all;
 hte=input('enter the tx height:');
