@@ -1,11 +1,11 @@
-Aim
+%Aim
 
-c) HATA Model transmitter height varied
+%c) HATA Model transmitter height varied
 
-Code:
+%Code:
 
 %HATA MODEL transmitter height varied
-clc
+clc;
 clear all;
 close all;
 hre = input ('enter the rx height:');
